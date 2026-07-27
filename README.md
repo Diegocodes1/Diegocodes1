@@ -15,11 +15,27 @@
 
 ## 📊 Estatísticas do GitHub
 
-![GitHub Stats](https://ghstats.dev/api/card?username=Diegocodes1&theme=tokyonight)
+## 📊 Estatísticas do GitHub
 
-![Top Languages](https://ghstats.dev/api/languages?username=Diegocodes1&theme=tokyonight)
+
+
+![GitHub Stats](https://github-stats-extended.vercel.app/api?username=Diegocodes1&theme=tokyonight&show_icons=true)
+
+
+
+
+
+![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=Diegocodes1&theme=tokyonight&layout=compact)
+
+
+
+
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=Diegocodes1&theme=tokyonight)
+
+
+
+
 
 ![Troféus](https://github-profile-trophy.vercel.app/?username=Diegocodes1&theme=tokyonight&margin-w=15&margin-h=15)
 

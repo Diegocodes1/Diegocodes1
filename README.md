@@ -33,7 +33,7 @@
 
 
 
-https://trophy.benkou.dev/?username=Diegocodes1
+![Troféus](https://trophy.benkou.dev/?username=Diegocodes1)
 
 ## 📚 Atualmente estudando
 

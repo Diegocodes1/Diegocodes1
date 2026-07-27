@@ -28,7 +28,7 @@ Local:    Três Lagoas/MS, Brasil
 | **Frontend** | HTML5, CSS3, JavaScript, React |
 | **Backend** | Node.js, Python |
 | **Database** | MySQL |
-| **Ferramentas** | Git, GitHub, VS Code |
+| **Ferramentas** | Git, GitHub, VS Code,react |
 | **Estudando agora** | IA / Inteligência Artificial |
 
 <p align="left">

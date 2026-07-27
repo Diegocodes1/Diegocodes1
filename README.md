@@ -13,9 +13,15 @@
 
 ## 📊 Estatísticas
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Diegocodes1&show_icons=true&theme=tokyonight)
+## 📊 Estatísticas do GitHub
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Diegocodes1&layout=compact&theme=tokyonight)
+![GitHub Stats](https://ghstats.dev/api/card?username=Diegocodes1&theme=tokyonight)
+
+![Top Languages](https://ghstats.dev/api/languages?username=Diegocodes1&theme=tokyonight)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=Diegocodes1&theme=tokyonight)
+
+![Troféus](https://github-profile-trophy.vercel.app/?username=Diegocodes1&theme=tokyonight&margin-w=15&margin-h=15)
 
 ## 📚 Atualmente estudando
 

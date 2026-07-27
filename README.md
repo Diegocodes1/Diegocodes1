@@ -11,9 +11,6 @@
 <img src="https://skillicons.dev/icons?i=html,css,js,git,github,python,mysql,vscode" />
 </p>
 
-## 📊 Estatísticas
-
-## 📊 Estatísticas do GitHub
 
 ## 📊 Estatísticas do GitHub
 
@@ -36,8 +33,7 @@
 
 
 
-
-![Troféus](https://github-profile-trophy.vercel.app/?username=Diegocodes1)
+https://trophy.benkou.dev/?username=Diegocodes1
 
 ## 📚 Atualmente estudando
 

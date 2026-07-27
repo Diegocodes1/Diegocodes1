@@ -1,16 +1,43 @@
-## Hi there 👋
 
-<!--
-**Diegocodes1/Diegocodes1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Olá, eu sou Diego Gonçalves da Silva
 
-Here are some ideas to get you started:
+💻 Estudante de Análise e Desenvolvimento de Sistemas (ADS)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Desenvolvedor Front-end em formação
+
+## 🛠️ Tecnologias
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,git,github,python,mysql,vscode" />
+</p>
+
+## 📊 Estatísticas
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Diegocodes1&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Diegocodes1&layout=compact&theme=tokyonight)
+
+## 📚 Atualmente estudando
+
+- HTML5
+- CSS3
+- JavaScript
+- Git e GitHub
+- React
+- MYSQL
+- PYTHON
+- IA
+- NODE.JS
+
+## 📂 Projetos
+
+- 🌐 Portfólio
+- 🐶 Site Pet Shop
+- 💼 Primeira Vaga TI
+- Lista de tarefa
+
+## 📫 Contato
+
+- GitHub: https://github.com/Diegocodes1
+- LinkedIn: https://www.linkedin.com/in/diego-silva-78b0b8235/)
+- Portfólio: https://diego-portfolio-v2.netlify.app/

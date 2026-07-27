@@ -37,7 +37,7 @@
 
 
 
-![Troféus](https://github-profile-trophy.vercel.app/?username=Diegocodes1&theme=tokyonight&margin-w=15&margin-h=15)
+![Troféus](https://github-profile-trophy.vercel.app/?username=Diegocodes1)
 
 ## 📚 Atualmente estudando
 

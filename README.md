@@ -55,7 +55,7 @@ Local:    Três Lagoas/MS, Brasil
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy-liard-delta.vercel.app/?username=Diegocodes1&theme=radical&no-frame=true&row=1&column=7" alt="Troféus" />
+  <img src="https://raw.githubusercontent.com/Diegocodes1/Diegocodes1/main/trophy.svg" alt="Troféus" />
 </p>
 
 ### 🐍 Contribuição em tempo real

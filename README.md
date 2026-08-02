@@ -47,24 +47,23 @@ Local:    Três Lagoas/MS, Brasil
 ### 📊 Estatísticas do GitHub
 
 <p align="center">
-  <img height="165" src="https://github-stats-extended.vercel.app/api?username=Diegocodes1&theme=tokyonight&show_icons=true&hide_border=true" alt="GitHub Stats" />
-  <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Diegocodes1&theme=tokyonight&layout=compact&hide_border=true" alt="Top Languages" />
+  <img height="165" src="https://vercel.app" alt="GitHub Stats" />
+  <img height="165" src="https://vercel.app" alt="Top Langs" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Diegocodes1&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://demolab.com" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://trophy.benkou.dev/?username=Diegocodes1&theme=tokyonight&margin-w=15&margin-h=15" alt="Troféus" />
+  <img src="https://vercel.app" alt="Trofhéus" />
 </p>
 
 ### 🐍 Contribuição em tempo real
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Diegocodes1/Diegocodes1/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
+  <img src="https://githubusercontent.com" alt="snake animation" />
 </p>
-
 ### 🔗 Contato
 
 <p align="left">

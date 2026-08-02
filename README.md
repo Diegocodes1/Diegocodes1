@@ -46,8 +46,8 @@ Local:    Três Lagoas/MS, Brasil
 ### 📊 Estatísticas do GitHub
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Diegocodes1&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Diegocodes1&layout=compact&theme=radical&hide_border=true" alt="Top Langs" />
+  <img height="165" src="https://github-readme-stats-fast.vercel.app/api?username=Diegocodes1&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
+  <img height="165" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Diegocodes1&layout=compact&theme=radical&hide_border=true" alt="Top Langs" />
 </p>
 
 <p align="center">
@@ -55,7 +55,7 @@ Local:    Três Lagoas/MS, Brasil
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Diegocodes1&theme=radical&no-frame=true&row=1&column=7" alt="Troféus" />
+  <img src="https://github-profile-trophy-liard-delta.vercel.app/?username=Diegocodes1&theme=radical&no-frame=true&row=1&column=7" alt="Troféus" />
 </p>
 
 ### 🐍 Contribuição em tempo real

@@ -28,7 +28,7 @@ Local:    Três Lagoas/MS, Brasil
 | **Frontend** | HTML5, CSS3, JavaScript, React |
 | **Backend** | Node.js, Python |
 | **Database** | MySQL |
-| **Ferramentas** | Git, GitHub, VS Code,react |
+| **Ferramentas** | Git, GitHub, VS Code |
 | **Estudando agora** | IA / Inteligência Artificial |
 
 <p align="left">
@@ -43,27 +43,27 @@ Local:    Três Lagoas/MS, Brasil
 - ✅ **Lista de tarefas** — CRUD em JavaScript
 - 💻 **DevIA00** - Para aprendizado
 
-
 ### 📊 Estatísticas do GitHub
 
 <p align="center">
-  <img height="165" src="https://vercel.app" alt="GitHub Stats" />
-  <img height="165" src="https://vercel.app" alt="Top Langs" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Diegocodes1&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Diegocodes1&layout=compact&theme=radical&hide_border=true" alt="Top Langs" />
 </p>
 
 <p align="center">
-  <img src="https://herokuapp.com" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=Diegocodes1&theme=radical&hide_border=true" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://vercel.app" alt="Trofhéus" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Diegocodes1&theme=radical&no-frame=true&row=1&column=7" alt="Troféus" />
 </p>
 
 ### 🐍 Contribuição em tempo real
 
 <p align="center">
-  <img src="https://githubusercontent.com" alt="snake animation" />
+  <img src="https://raw.githubusercontent.com/Diegocodes1/Diegocodes1/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </p>
+
 ### 🔗 Contato
 
 <p align="left">

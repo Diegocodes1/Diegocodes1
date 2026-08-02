@@ -52,11 +52,11 @@ Local:    Três Lagoas/MS, Brasil
 </p>
 
 <p align="center">
-  <img src="https://herokuapp.com" alt="GitHub Streak" />
+  <img src="https://demolab.com" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://vercel.app" alt="Trofhéus" />
+  <img src="https://benkou.dev" alt="Trofhéus" />
 </p>
 
 ### 🐍 Contribuição em tempo real

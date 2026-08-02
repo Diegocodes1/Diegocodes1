@@ -41,6 +41,8 @@ Local:    Três Lagoas/MS, Brasil
 - 🐾 **Site Pet Shop** — projeto front-end
 - 💼 **Primeira Vaga TI** — projeto de estudo
 - ✅ **Lista de tarefas** — CRUD em JavaScript
+- 💻 **DevIA00** - Para aprendizado
+
 
 ### 📊 Estatísticas do GitHub
 

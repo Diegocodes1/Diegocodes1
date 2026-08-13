@@ -1,14 +1,11 @@
 <h1 align="center">Olá, eu sou Diego Gonçalves da Silva 👋</h1>
-
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FF9C&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+em+forma%C3%A7%C3%A3o;Foco+em+HTML%2C+CSS%2C+JS+%26+Python;Sempre+evoluindo+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FF9C&center=true&vCenter=true&width=700&lines=Estudante+de+ADS+%7C+Desenvolvedor+Back-end;Node.js+%7C+JavaScript+%7C+MySQL;Git%2FGitHub+%7C+Docker;Sempre+evoluindo+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Diegocodes1&label=Profile%20views&color=00FF9C&style=flat" alt="profile views" />
   <img src="https://img.shields.io/github/followers/Diegocodes1?label=Followers&style=flat&color=00FF9C" alt="followers" />
 </p>
-
 ---
 
 ```yaml

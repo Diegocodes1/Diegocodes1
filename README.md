@@ -15,10 +15,10 @@
 Diegocodes1@github:~$ whoami
 
 Nome:     Diego Gonçalves da Silva
-Role:     Desenvolvedor Front-end em formação
-Foco:     Aplicações web modernas & automação com Python
+Role:     Desenvolvedor   Back-end em formação
+Foco:     Aplicações web, NODE.JS | JAVASCRIPT | DORCKER | MYSQL
 Curso:    Análise e Desenvolvimento de Sistemas (ADS)
-Local:    Três Lagoas/MS, Brasil
+
 ```
 
 ### 🧰 Stack

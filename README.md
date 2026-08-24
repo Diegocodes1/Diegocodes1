@@ -39,7 +39,7 @@ Curso:    Análise e Desenvolvimento de Sistemas (ADS)
 - 💼 **Primeira Vaga TI** — projeto de estudo
 - ✅ **Lista de tarefas** — CRUD em JavaScript
 - 💻 **DevIA00** - Para aprendizado
-- 📆:**minha-escala** - calcular folga
+- 📆:**[minha-escala](https://minha-escalawork.netlify.app/)** - calcular folga
 
 ### 📊 Estatísticas do GitHub
 

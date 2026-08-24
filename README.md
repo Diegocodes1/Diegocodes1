@@ -35,10 +35,10 @@ Curso:    Análise e Desenvolvimento de Sistemas (ADS)
 ### 📂 Projetos em destaque
 
 - 🌐 **[Portfólio](https://diego-portfolio-v2.netlify.app/)** — meu site pessoal
-- 🐾 **Site Pet Shop** — projeto front-end
-- 💼 **Primeira Vaga TI** — projeto de estudo
-- ✅ **Lista de tarefas** — CRUD em JavaScript
-- 💻 **DevIA00** - Para aprendizado
+- 🐾 **[Site Pet Shop](https://loja-de-petshop1.netlify.app/)** — projeto front-end
+- 💼 **[Primeira Vaga TI](https://guia-primeira-vaga.netlify.app/)** — projeto de estudo
+- ✅ **[Lista de tarefas](https://lista-de-tarefav1.netlify.app/)** — CRUD em JavaScript
+- 💻 **[DevIA00](https://devia00.netlify.app/)** - Para aprendizado
 - 📆:**[minha-escala](https://minha-escalawork.netlify.app/)** - calcular folga
 
 ### 📊 Estatísticas do GitHub

@@ -40,6 +40,7 @@ Curso:    Análise e Desenvolvimento de Sistemas (ADS)
 - ✅ **[Lista de tarefas](https://lista-de-tarefav1.netlify.app/)** — CRUD em JavaScript
 - 💻 **[DevIA00](https://devia00.netlify.app/)** - Para aprendizado
 - 📆:**[minha-escala](https://minha-escalawork.netlify.app/)** - calcular folga
+- *️⃣:**[deshboard](https://dashboard-suporteti.netlify.app/)** - deshbord-suporte
 
 ### 📊 Estatísticas do GitHub
 
